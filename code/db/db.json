@@ -150,15 +150,6 @@
       "genre": "Rock",
       "songUrl": "Songs/Monica (From _Coolie_) - MassTamilan.mp3",
       "singer": "Sublahshini"
-    },
-    {
-      "id": "b41f",
-      "itemId": "10",
-      "title": "Yemma Yemma",
-      "imgUrl": "https://i.ytimg.com/vi/dPjGiXat7Hg/maxresdefault.jpg",
-      "genre": "Sad",
-      "songUrl": "/Songs/Yamma Yamma (S P Bala, Swetha Menon) - MassTamilan.mp3",
-      "singer": "S P Bala, Swetha Menon"
     }
   ],
   "playlist": [
