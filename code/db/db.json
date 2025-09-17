@@ -10,6 +10,14 @@
     },
     {
       "id": "2",
+      "title": "Single Pasanga",
+      "singer": "Hiphop tamilzha",
+      "genre": "Rock",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/214/230x230/thumb_6826a27961d83.jpg",
+      "songUrl": "Songs/Single Pasanga - Ka Ka Balachander, Gana Ulagam Dharani, Arivu - MassTamilan.mp3"
+    },
+    {
+      "id": "3",
       "title": "Thangapoovey",
       "singer": "Anirudh Ravichander",
       "genre": "Romantic",
@@ -17,7 +25,7 @@
       "songUrl": "Songs/Thangapoovey - Anirudh Ravichander - MassTamilan.mp3"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Yaanji",
       "singer": "Anirudh Ravichander",
       "genre": "Romantic",
@@ -25,7 +33,15 @@
       "songUrl": "Songs/Yaanji - Anirudh Ravichander, Shakthisree Gopalan - MassTamilan.mp3"
     },
     {
-      "id": "4",
+      "id": "5",
+      "title": "Po Nee Po",
+      "singer": "Mohit Chauhan",
+      "genre": "Emotional",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/109/230x230/thumb_681acf1f8f682.jpg",
+      "songUrl": "Songs/Po Nee Po (The Pain of Love) - MassTamilan.mp3"
+    },
+    {
+      "id": "6",
       "title": "Thaen Thaen",
       "singer": "Udit Narayan",
       "genre": "Romantic",
@@ -33,7 +49,39 @@
       "songUrl": "Songs/Thaen Thaen Thaen Udit Narayan, Shreya Ghoshal - MassTamilan.mp3"
     },
     {
-      "id": "6",
+      "id": "7",
+      "title": "Adada Adada",
+      "singer": "Siddharth",
+      "genre": "Romantic",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/43/230x230/thumb_680b9bc6d480b.jpg",
+      "songUrl": "/Songs/Adada Adada - Siddharth - MassTamilan.mp3"
+    },
+    {
+      "id": "8",
+      "title": "Thamizhan Veera Thamizhan",
+      "singer": "Rahul Nambiar",
+      "genre": "Emotional",
+      "imgUrl": "https://i.ytimg.com/vi/jMSza1yf-2s/maxresdefault.jpg",
+      "songUrl": "/Songs/Thamizhan_Veera_Thamizhan_[MassWala.Com].mp3"
+    },
+    {
+      "id": "9",
+      "title": "Konja Naal Poru Thalaivaa",
+      "singer": "Hariharan",
+      "genre": "Romantic",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/67/230x230/thumb_6815f209621c3.jpg",
+      "songUrl": "/Songs/Konja Naal Poru Thalaivaa - Hariharan - MassTamilan.mp3"
+    },
+    {
+      "id": "10",
+      "title": "Yemma Yemma",
+      "singer": "S P Bala, Swetha Menon",
+      "genre": "Sad",
+      "imgUrl": "https://i.ytimg.com/vi/dPjGiXat7Hg/maxresdefault.jpg",
+      "songUrl": "/Songs/Yamma Yamma (S P Bala, Swetha Menon) - MassTamilan.mp3"
+    },
+    {
+      "id": "11",
       "title": "Oruvan Oruvan",
       "singer": "S. P. Balasubrahmanyam",
       "genre": "Mass Hits",
@@ -41,7 +89,23 @@
       "songUrl": "/Songs/Oruvan_Oruvan_Mudalali_[MassWala.Com].mp3"
     },
     {
-      "id": "7",
+      "id": "12",
+      "title": "Thillana Thillana",
+      "singer": "Mano, Sujatha",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/dod-8I334j8/maxresdefault.jpg",
+      "songUrl": "/Songs/Thillana Thillana - Mano, Sujatha - MassTamilan.mp3"
+    },
+    {
+      "id": "13",
+      "title": "Aadiyile Sedhi",
+      "singer": "K.S. Chithra",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/0-MbukW3ih4/maxresdefault.jpg",
+      "songUrl": "/Songs/Aadiyile Sedhi - K S Chitra - MassTamilan.mp3"
+    },
+    {
+      "id": "14",
       "title": "Nee Pottu Vechcha",
       "singer": "Malaysia Vasudevan, Mano, K. S. Chithra",
       "genre": "Mass Hits",
@@ -49,7 +113,16 @@
       "songUrl": "public/Songs/Nee_Pottu_Vechcha_[MassWala.Com].mp3"
     }
   ],
-  "favoritie": [
+  "favorities": [
+    {
+      "id": "3434",
+      "itemId": "8",
+      "title": "Thaen Thaen",
+      "imgUrl": "https://i.ytimg.com/vi/-pTaqX8CIpE/sddefault.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Thaen Thaen Thaen Udit Narayan, Shreya Ghoshal - MassTamilan.mp3",
+      "singer": "Udit Narayan"
+    },
     {
       "id": "d382",
       "itemId": "13",
@@ -60,7 +133,25 @@
       "singer": "Rahul Nambiar"
     },
     {
-      "id": "8bc4",
+      "id": "cf25",
+      "itemId": "15",
+      "title": "Konja Naal Poru Thalaivaa",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/67/230x230/thumb_6815f209621c3.jpg",
+      "genre": "Romantic",
+      "songUrl": "/Songs/Konja Naal Poru Thalaivaa - Hariharan - MassTamilan.mp3",
+      "singer": "Hariharan"
+    },
+    {
+      "id": "40dd",
+      "itemId": "3",
+      "title": "Thangapoovey",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Tz_rIEgiDb98AZYtBVl7el0p5lYSl8maXA&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/Thangapoovey - Anirudh Ravichander - MassTamilan.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "9491",
       "itemId": "1",
       "title": "Monica",
       "imgUrl": "https://masstamilan.com.se/upload_file/3/12/290/230x230/thumb_68786de34884a.webp",
@@ -69,18 +160,18 @@
       "singer": "Sublahshini"
     },
     {
-      "id": "04a8",
-      "itemId": "3",
-      "title": "Thangapoovey",
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Tz_rIEgiDb98AZYtBVl7el0p5lYSl8maXA&s",
-      "genre": "Romantic",
-      "songUrl": "Songs/Thangapoovey - Anirudh Ravichander - MassTamilan.mp3",
-      "singer": "Anirudh Ravichander"
+      "id": "b41f",
+      "itemId": "10",
+      "title": "Yemma Yemma",
+      "imgUrl": "https://i.ytimg.com/vi/dPjGiXat7Hg/maxresdefault.jpg",
+      "genre": "Sad",
+      "songUrl": "/Songs/Yamma Yamma (S P Bala, Swetha Menon) - MassTamilan.mp3",
+      "singer": "S P Bala, Swetha Menon"
     }
   ],
   "playlist": [
     {
-      "id": "75be",
+      "id": "8171",
       "itemId": "3",
       "title": "Thangapoovey",
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Tz_rIEgiDb98AZYtBVl7el0p5lYSl8maXA&s",
@@ -89,13 +180,58 @@
       "singer": "Anirudh Ravichander"
     },
     {
-      "id": "d523",
-      "itemId": "4",
-      "title": "Yaanji",
-      "imgUrl": "https://i.ytimg.com/vi/Y3-PeuQ7nvY/maxresdefault.jpg",
+      "id": "0ed0",
+      "itemId": "8",
+      "title": "Thaen Thaen",
+      "imgUrl": "https://i.ytimg.com/vi/-pTaqX8CIpE/sddefault.jpg",
       "genre": "Romantic",
-      "songUrl": "Songs/Yaanji - Anirudh Ravichander, Shakthisree Gopalan - MassTamilan.mp3",
-      "singer": "Anirudh Ravichander"
+      "songUrl": "Songs/Thaen Thaen Thaen Udit Narayan, Shreya Ghoshal - MassTamilan.mp3",
+      "singer": "Udit Narayan"
+    },
+    {
+      "id": "e989",
+      "itemId": "28",
+      "title": "Nee Pottu Vechcha",
+      "imgUrl": "https://i.ytimg.com/vi/0U4IpWN82uM/maxresdefault.jpg",
+      "genre": "Mass Hits",
+      "songUrl": "public/Songs/Nee_Pottu_Vechcha_[MassWala.Com].mp3",
+      "singer": "Malaysia Vasudevan, Mano, K. S. Chithra"
+    },
+    {
+      "id": "a706",
+      "itemId": "1",
+      "title": "Monica",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/290/230x230/thumb_68786de34884a.webp",
+      "genre": "Rock",
+      "songUrl": "Songs/Monica (From _Coolie_) - MassTamilan.mp3",
+      "singer": "Sublahshini"
+    },
+    {
+      "id": "91ac",
+      "itemId": "2",
+      "title": "Single Pasanga",
+      "imgUrl": "https://masstamilan.com.se/upload_file/3/12/214/230x230/thumb_6826a27961d83.jpg",
+      "genre": "Rock",
+      "songUrl": "Songs/Single Pasanga - Ka Ka Balachander, Gana Ulagam Dharani, Arivu - MassTamilan.mp3",
+      "singer": "Hiphop tamilzha"
+    },
+    {
+      "id": "45a8",
+      "itemId": "10",
+      "title": "Yemma Yemma",
+      "imgUrl": "https://i.ytimg.com/vi/dPjGiXat7Hg/maxresdefault.jpg",
+      "genre": "Sad",
+      "songUrl": "/Songs/Yamma Yamma (S P Bala, Swetha Menon) - MassTamilan.mp3",
+      "singer": "S P Bala, Swetha Menon"
+    },
+    {
+      "id": "48eb",
+      "itemId": "13",
+      "title": "Aadiyile Sedhi",
+      "imgUrl": "https://i.ytimg.com/vi/0-MbukW3ih4/maxresdefault.jpg",
+      "genre": "Romantic",
+      "songUrl": "/Songs/Aadiyile Sedhi - K S Chitra - MassTamilan.mp3",
+      "singer": "K.S. Chithra"
     }
   ]
 }
